@@ -1,4 +1,4 @@
-# docs
+# Outline
 
 Monitoring Application - Product Specification
 
